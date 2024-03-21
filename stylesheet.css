@@ -40,8 +40,6 @@
 .container{
     position: absolute;
     padding: 10px;
-    left: 10%;
-    right: 10%;
 }
 .img{
     position: relative;
@@ -62,17 +60,17 @@
 	opacity: 0.7;
     width: 1px;
     padding: 20px;
-    height: 40px;
+    height: 50px;
 }
 .com-3{
 	color: black;
 	text-align: left;
-    font-size: large;
+    font-size: xxxx-large;
     padding: 20px;
 }
 .text-2{
     height: 200px;
-    width: 100%;
+    width: 1000px;
     top:630px;
 }
 .com-4{
@@ -80,7 +78,7 @@
     background-color: skyblue;
     opacity: 0.9;
     height: 200px;
-    width: 100%;
+    width: 1000px;
     padding: 20px;
 }
 .com-5{
@@ -106,13 +104,14 @@
     left: 600px;
     color: rgb(22, 22, 22);
     direction: rtl;
-    text-wrap:stable;
-    width: 480px;
-    top: 750px;
+    width: 380px;
+    right: 100px;
+    top: 740px;
 }
 .text-3{
     position: absolute;
     top:200px;
+    padding-left: 20px;
 }
 .com-8{
     position: absolute;
@@ -147,7 +146,7 @@
     color: rgb(255, 255, 255);
     padding: 20px;
     direction: rtl;
-    right: 10px;
+    right: 130px;
     width: 200px;
     top: 965px;
 }
